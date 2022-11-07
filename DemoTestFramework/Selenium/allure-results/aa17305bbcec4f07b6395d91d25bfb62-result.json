@@ -1,0 +1,96 @@
+{
+  "uuid": "27d76f18-fa42-4e33-b97d-2f5ec95e1d67-tr-0-1002",
+  "historyId": "Selenium.AllureTests.OpenKznAuth1Testing",
+  "fullName": "Selenium.AllureTests.OpenKznAuth1Testing",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-J93DTEL"
+    },
+    {
+      "name": "package",
+      "value": "Selenium"
+    },
+    {
+      "name": "testMethod",
+      "value": "OpenKznAuth1Testing"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureTests"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "OpenKznAuth1Testing",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenKznAuth1Testing"
+  },
+  "stage": "finished",
+  "description": "XXX\n",
+  "steps": [
+    {
+      "name": "OpenKznAuth1Testing",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f3ce7c07714043d0b218eb858c00ae73-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1666964025471,
+      "stop": 1666964025497
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1666964025470,
+  "stop": 1666964025500
+}

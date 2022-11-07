@@ -1,0 +1,62 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39ee54f6_002D179d_002D4aad_002Db645_002D146f23b3fa14/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CloseMessage #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CloseMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CheckVisibleAnswer&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cc3e896_002Daf27_002D472a_002D9d22_002D9231a36817bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CloseMessage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CloseMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=653155e7_002D1311_002D48f2_002D80b5_002D505b8b88e1e9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckVisibleAnswer #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CheckVisibleAnswer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CloseMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=768d5da7_002D7302_002D408e_002Db299_002Dfc0245eb67a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CloseMessage #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CloseMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bbded9b7_002D4195_002D4738_002Dbffd_002D8d71daae0a88/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Project Location="D:\testing\Maxima_Aqa\ApiTesting\DemoTestFramework\DemoTestFramework" Presentation="&amp;lt;DemoTestFramework&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;DemoTestFramework&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.OpenKznCheckMyProfileTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.ololo&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.OpenKznAuthTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznRegistrationTests.OpenKznRegistrationTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznRegistrationTests.FactoryTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznRegistrationTests.PageElementTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::OpenKznTests.OpenKznAuthTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::OpenKznTests.PopupTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::OpenKznTests.CookieTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::OpenKznTests.jatesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.Ololo.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.Ololo.OpenGoogleAndSearch&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.Ololo&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.RemoteExample.GoogleExampleTesting&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.AllureTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.Test.ClosePushToMainPage&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.Test&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznRegistrationTests.CloseMessage&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d92382ab_002Dfafd_002D4523_002Dbac6_002Dd5657341617d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckVisibleAnswer" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CheckVisibleAnswer&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=effe5021_002Df496_002D41f9_002Dbbb8_002D20975bfc70b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CloseMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98CBAEC0-2EEE-48B9-B7DA-EB0A861803B4::net6.0::Selenium.OpenKznTests.CloseMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

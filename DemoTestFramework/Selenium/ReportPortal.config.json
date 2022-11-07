@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/reportportal/agent-net-nunit/master/src/ReportPortal.NUnitExtension/ReportPortal.config.schema",
+  "enabled": true,
+  "server": {
+    "url": "https://rp.epam.com/api/v1/",
+    "project": "default_personal",
+    "authentication": {
+      "uuid": "0e80c23b-9676-4b6b-8255-18ef1dece8b5"
+    }
+  },
+  "launch": {
+    "name": "default_TEST_EXAMPLE",
+    "description": "this is description",
+    "debugMode": false,
+    "attributes": [ "t1", "t2", "platform:x64" ]
+  }
+}

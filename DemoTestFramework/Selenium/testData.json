@@ -1,0 +1,10 @@
+﻿{
+  "testUser1" : {
+    "login": "alisa.skrynko@gmail.com",
+    "password": "c069db"
+  },
+  "testUser2" : {
+    "login": "askrynko@ncteam.net",
+    "password": "gN2%0CEy"
+  }
+}
